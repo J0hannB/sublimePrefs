@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"All Autocomplete",
+		"Boxy Theme",
+		"GitGutter",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"Pylinter",
+		"SublimeCodeIntel",
+		"Theme - Afterglow",
+		"Theme - SoDaReloaded"
+	]
+}
