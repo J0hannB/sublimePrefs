@@ -7,7 +7,6 @@
 	[
 		"Agila Theme",
 		"All Autocomplete",
-		"Boxy Theme",
 		"ColorSchemeEditor",
 		"GitGutter",
 		"Material Theme",
@@ -15,9 +14,6 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Predawn",
-		"Pylinter",
-		"SublimeCodeIntel",
-		"Theme - Afterglow",
 		"Theme - SoDaReloaded"
 	]
 }
